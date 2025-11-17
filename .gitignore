@@ -13,5 +13,3 @@ __pycache__/
 .vscode/
 .idea/
 
-# Streamlit generated
-.streamlit/
