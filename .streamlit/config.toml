@@ -1,2 +1,2 @@
-[runner]
-postInstall = "python3 -m playwright install --with-deps chromium"
+[build]
+commands = ["playwright install --with-deps chromium"]
